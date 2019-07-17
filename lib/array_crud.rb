@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  [apples, pears, bananas, oranges]
+  ["apples", "pears", "bananas", "oranges"]
 end
 
 def add_element_to_end_of_array(array, element)
